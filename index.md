@@ -43,7 +43,8 @@ Esta área permite gerir os utilizadores do software (e respetivos níveis de pe
 Abaixo encontram-se algumas imagens do software em funcionamento:
 
 ### Front Office - Menu Principal
-<img src="https://pauloconstanca.github.io/webrest-public/images/icon-512x512.png" width="600" />
+
+<img src="https://pauloconstanca.github.io/webrest-public/images/frontoffice_main.png" width="600" />
 
 ### Front Office - Mesas
 
