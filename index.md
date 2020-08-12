@@ -12,7 +12,7 @@ O WebRest é um software que corre sob um servidor web tipico constituido, por e
 
 O software em si está dividido em 3 áreas distintas, sendo elas:
 
-# Front Office
+#### Front Office
 
 Área do software dedicado à interação com o publico, tendo a capacidade de:
 
@@ -23,7 +23,7 @@ O software em si está dividido em 3 áreas distintas, sendo elas:
 - Gestão de Filas de Espera
 
 
-# Back Office
+#### Back Office
 
 No Back Office é possivel gerir os elementos que constitúem o Front Office, nomeadamente:
 
@@ -32,7 +32,7 @@ No Back Office é possivel gerir os elementos que constitúem o Front Office, no
 - Gerir famílias e artigos
 - Gerir mesas e capacidade das mesas.
 
-# Administração
+#### Administração
 
 Esta área permite gerir os utilizadores do software (e respetivos níveis de permissões de acesso) bem como os dados da empresa. 
 
@@ -40,14 +40,14 @@ Esta área permite gerir os utilizadores do software (e respetivos níveis de pe
 
 Abaixo encontram-se algumas imagens do software em funcionamento:
 
-# Front Office - Menu Principal
+#### Front Office - Menu Principal
 
-# Front Office - Mesas
+#### Front Office - Mesas
 
-# Front Office - Gestão de Conta
+#### Front Office - Gestão de Conta
 
-# Front Office - Fecho de Conta
+#### Front Office - Fecho de Conta
 
-# Front Office - Reservas
+#### Front Office - Reservas
 
-# Front Office - Filas de Espera
+#### Front Office - Filas de Espera
