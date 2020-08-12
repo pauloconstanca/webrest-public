@@ -44,14 +44,24 @@ Abaixo encontram-se algumas imagens do software em funcionamento:
 
 ### Front Office - Menu Principal
 
-<img src="https://pauloconstanca.github.io/webrest-public/images/frontoffice_main.png" width="600" />
+<img src="https://pauloconstanca.github.io/webrest-public/images/frontoffice_main.png" width="800" />
 
 ### Front Office - Mesas
 
+<img src="https://pauloconstanca.github.io/webrest-public/images/frontoffice_tables.png" width="800" />
+
 ### Front Office - Gestão de Conta
+
+<img src="https://pauloconstanca.github.io/webrest-public/images/frontoffice_tab.png" width="800" />
 
 ### Front Office - Fecho de Conta
 
+<img src="https://pauloconstanca.github.io/webrest-public/images/frontoffice_bill.png" width="800" />
+
 ### Front Office - Reservas
 
+<img src="https://pauloconstanca.github.io/webrest-public/images/frontoffice_reservations.png" width="800" />
+
 ### Front Office - Filas de Espera
+
+<img src="https://pauloconstanca.github.io/webrest-public/images/frontoffice_waiinglist.png" width="800" />
