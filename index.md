@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+## WebRest - Software de Restauração
 
-You can use the [editor on GitHub](https://github.com/pauloconstanca/webrest.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+O WebRest é um pequeno software de restauração construído em Tencologias Web, através de linguagens de programação / demarcação PHP, Javascript, HTML e CSS e frameworks Smarty e RedBeanPHP.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Totalmente construido para se adaptar aos demais dispositivos, o WebRest consegue-se adaptar para trabalhar em Smartphones, Tablets, POS e Computadores fixos / portáteis. Pode até mesmo correr num Fringorifico Inteligente, afinal, só é necessário um WebBrowser para o executar!
 
-### Markdown
+Este software foi construido como parte do projeto final da licenciatura de Informática de Gestão concluída no ano 2020 na instituição ISLA Santarém, tendo recebido uma apreciação de 19 valores por parte do juri.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Capaciades do software
 
-```markdown
-Syntax highlighted code block
+O WebRest é um software que corre sob um servidor web tipico constituido, por exemplo, pelo Apache e MySQL.
 
-# Header 1
-## Header 2
-### Header 3
+O software em si está dividido em 3 áreas distintas, sendo elas:
 
-- Bulleted
-- List
+# Front Office
 
-1. Numbered
-2. List
+Área do software dedicado à interação com o publico, tendo a capacidade de:
 
-**Bold** and _Italic_ and `Code` text
+- Gerir Mesas de um establecimento;
+- Gerir Contas;
+- Efetuar Faturas
+- Calendário de Reservas
+- Gestão de Filas de Espera
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Back Office
 
-### Jekyll Themes
+No Back Office é possivel gerir os elementos que constitúem o Front Office, nomeadamente:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pauloconstanca/webrest.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Ver e editar fichas de cliente
+- Ver, imprimir e enviar por e-mail faturas;
+- Gerir famílias e artigos
+- Gerir mesas e capacidade das mesas.
 
-### Support or Contact
+# Administração
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Esta área permite gerir os utilizadores do software (e respetivos níveis de permissões de acesso) bem como os dados da empresa. 
+
+### Imagens do Software em Funcionamento.
+
+Abaixo encontram-se algumas imagens do software em funcionamento:
+
+# Front Office - Menu Principal
+
+# Front Office - Mesas
+
+# Front Office - Gestão de Conta
+
+# Front Office - Fecho de Conta
+
+# Front Office - Reservas
+
+# Front Office - Filas de Espera
