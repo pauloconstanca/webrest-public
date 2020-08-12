@@ -64,4 +64,4 @@ Abaixo encontram-se algumas imagens do software em funcionamento:
 
 ### Front Office - Filas de Espera
 
-<img src="https://pauloconstanca.github.io/webrest-public/images/frontoffice_wainglist.png" width="800" />
+<img src="https://pauloconstanca.github.io/webrest-public/images/frontoffice_waitinglist.png" width="800" />
