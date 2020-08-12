@@ -1,5 +1,7 @@
 ## WebRest - Software de Restauração
 
+<img src="https://pauloconstanca.github.io/webrest-public/images/icon-512x512.png" width="200" align="right"/>
+
 O WebRest é um pequeno software de restauração construído em Tencologias Web, através de linguagens de programação / demarcação PHP, Javascript, HTML e CSS e frameworks Smarty e RedBeanPHP.
 
 Totalmente construido para se adaptar aos demais dispositivos, o WebRest consegue-se adaptar para trabalhar em Smartphones, Tablets, POS e Computadores fixos / portáteis. Pode até mesmo correr num Fringorifico Inteligente, afinal, só é necessário um WebBrowser para o executar!
