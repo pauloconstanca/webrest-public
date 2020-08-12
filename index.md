@@ -38,18 +38,19 @@ No Back Office é possivel gerir os elementos que constitúem o Front Office, no
 
 Esta área permite gerir os utilizadores do software (e respetivos níveis de permissões de acesso) bem como os dados da empresa. 
 
-### Imagens do Software em Funcionamento.
+## Imagens do Software em Funcionamento.
 
 Abaixo encontram-se algumas imagens do software em funcionamento:
 
-#### Front Office - Menu Principal
+### Front Office - Menu Principal
+<img src="https://pauloconstanca.github.io/webrest-public/images/icon-512x512.png" width="600" />
 
-#### Front Office - Mesas
+### Front Office - Mesas
 
-#### Front Office - Gestão de Conta
+### Front Office - Gestão de Conta
 
-#### Front Office - Fecho de Conta
+### Front Office - Fecho de Conta
 
-#### Front Office - Reservas
+### Front Office - Reservas
 
-#### Front Office - Filas de Espera
+### Front Office - Filas de Espera
