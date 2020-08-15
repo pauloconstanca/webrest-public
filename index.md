@@ -42,6 +42,20 @@ Esta área permite gerir os utilizadores do software (e respetivos níveis de pe
 
 Abaixo encontram-se algumas imagens do software em funcionamento:
 
+### Adaptabilidade para Smartphones
+
+<img src="https://pauloconstanca.github.io/webrest-public/images/frontoffice_mobile.png" width="200" />
+<img src="https://pauloconstanca.github.io/webrest-public/images/frontoffice_tables_mobile.png" width="200" />
+<img src="https://pauloconstanca.github.io/webrest-public/images/frontoffice_waitinglist_mobile.png" width="200" />
+
+### Login
+
+<img src="https://pauloconstanca.github.io/webrest-public/images/login.png" width="800" />
+
+### Menu Principal
+
+<img src="https://pauloconstanca.github.io/webrest-public/images/main_menu.png" width="800" />
+
 ### Front Office - Menu Principal
 
 <img src="https://pauloconstanca.github.io/webrest-public/images/frontoffice_main.png" width="800" />
@@ -65,3 +79,35 @@ Abaixo encontram-se algumas imagens do software em funcionamento:
 ### Front Office - Filas de Espera
 
 <img src="https://pauloconstanca.github.io/webrest-public/images/frontoffice_waitinglist.png" width="800" />
+
+### Back Office - Menu Principal
+
+<img src="https://pauloconstanca.github.io/webrest-public/images/backoffice.png" width="800" />
+
+### Back Office - Clientes
+
+<img src="https://pauloconstanca.github.io/webrest-public/images/backoffice_clients.png" width="800" />
+
+
+### Back Office - Faturas
+
+<img src="https://pauloconstanca.github.io/webrest-public/images/backoffice_bill.png" width="800" />
+
+
+### Back Office - Edição de Items
+
+<img src="https://pauloconstanca.github.io/webrest-public/images/backoffice_items.png" width="800" />
+
+
+### Back Office - Edição de Familias
+
+<img src="https://pauloconstanca.github.io/webrest-public/images/backoffice_family.png" width="800" />
+
+
+
+### Administração - Página Princial
+
+<img src="https://pauloconstanca.github.io/webrest-public/images/admin.png" width="800" />
+
+
+
