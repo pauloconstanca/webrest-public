@@ -8,7 +8,7 @@ Totalmente construido para se adaptar aos demais dispositivos, o WebRest consegu
 
 Este software foi construido como parte do projeto final da licenciatura de Informática de Gestão concluída no ano 2020 na instituição ISLA Santarém, tendo recebido uma apreciação de 19 valores por parte do juri.
 
-### Capaciades do software
+### Capacidades do software
 
 O WebRest é um software que corre sob um servidor web tipico constituido, por exemplo, pelo Apache e MySQL.
 
@@ -105,7 +105,7 @@ Abaixo encontram-se algumas imagens do software em funcionamento:
 
 
 
-### Administração - Página Princial
+### Administração - Página Principal
 
 <img src="https://pauloconstanca.github.io/webrest-public/images/admin.png" width="800" />
 
